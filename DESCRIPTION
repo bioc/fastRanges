@@ -1,7 +1,7 @@
 Package: fastRanges
 Type: Package
 Title: Deterministic Multithreaded Genomic Interval Operations
-Version: 0.99.2
+Version: 1.0.0
 Authors@R: person(given = "Chirag", family = "Parsania", role = c("aut", "cre"), email = "chirag.parsania@gmail.com", comment = c(github = "cparsania"))
 Description: High-performance interval overlap and join operations for
     'IRanges' and 'GenomicRanges'. The package provides deterministic
